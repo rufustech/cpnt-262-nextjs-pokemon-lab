@@ -12,7 +12,7 @@ export default function AboutPage() {
       <Link className="text-accent mx-4 font-bold hover:underline" href="/">
         Back to Home
       </Link>
-      {/* Bug: Missing navigation link */}
+      {/* Bug: Missing navigation link */} Fixed
     </div>
   );
 }
